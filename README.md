@@ -9,7 +9,7 @@
 
 - [x] Single-file components
 - [x] Data-binding
-- [ ] Diretivas
+- [x] Diretivas
 - [ ] Eventos e métodos
 - [ ] Novas syntaxs e antiga
 - [ ] Life-cycle Hooks
