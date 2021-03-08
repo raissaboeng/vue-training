@@ -3,7 +3,7 @@
 
 [Link do curso](https://treinamento.vuejsbrasil.org/)
 
-<img src=".github/vue.png">
+<img width=100% src=".github/vue.png">
 
 ## 📃 Conteúdo
 
