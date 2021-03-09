@@ -14,6 +14,6 @@
 - [x] Diretivas
 - [x] Eventos e métodos
 - [x] Novas syntaxs e antiga
-- [ ] Life-cycle Hooks
+- [x] Life-cycle Hooks
 
 <p align="center">Com 💜 por Raissa Boeng</p>
