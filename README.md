@@ -12,8 +12,8 @@
 - [x] Single-file components
 - [x] Data-binding
 - [x] Diretivas
-- [ ] Eventos e métodos
-- [ ] Nova sintaxe x antiga
-- [ ] Life-cycle Hooks
+- [x] Eventos e métodos
+- [x] Nova sintaxe x antiga
+- [x] Life-cycle Hooks
 
 <p align="center">Com 💜 por Raissa Boeng</p>
