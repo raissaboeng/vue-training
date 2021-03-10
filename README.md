@@ -13,7 +13,7 @@
 - [x] Data-binding
 - [x] Diretivas
 - [x] Eventos e métodos
-- [x] Novas syntaxs e antiga
+- [x] Nova sintaxe x antiga
 - [x] Life-cycle Hooks
 
 <p align="center">Com 💜 por Raissa Boeng</p>
